@@ -1,0 +1,33 @@
+
+#divEsquerda{
+    
+    min-height: 100px;
+    width: 50%;
+    float: left;
+}
+
+#divDireita{
+    
+    min-height: 100px;
+    width: 50%;
+    float: right;
+}
+
+.container{
+    width: 960px;
+    margin: auto;
+}
+body{
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 15px;
+    
+    
+}
+.linha2{
+    background-color: lime;
+
+}
+.linha3{
+    background-color: red;
+}
